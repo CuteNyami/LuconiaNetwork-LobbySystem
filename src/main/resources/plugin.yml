@@ -1,0 +1,6 @@
+name: LobbySystem
+version: '${version}'
+main: net.luconia.lobbysystem.LobbySystem
+authors: [ LuconiaNetwork ]
+commands:
+  cape:
